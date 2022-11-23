@@ -54,11 +54,18 @@ p{
     box-shadow: 10px 10px 40px gray;
     width: 40%;
     margin: 4% 4%;
-    padding: 10px 15px 10px 15px;
-    border-radius: 5px;
+    padding: 10px 15px 60px 15px;
 }
 #web-dev-experience{
     border-left: 7px solid;
     border-image: linear-gradient(blue cyan);
 border-image-slice: 1;
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon tomato);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
